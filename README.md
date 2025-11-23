@@ -63,3 +63,4 @@ This framework recognizes that boundaries are functional illusions — necessary
 - [Chapter II - Religion as cryptic, dogmatic continuity-coherence protocol](./chapter-2-religion_rituals_session_synthesis_2025-10-19.md)
 - [Chapter III - Raw Lucid symbolic journey notes across paradoxes](./notes.md)
 - (Provisional) Chapter IV - Points forward
+- [How to not get lost in hallucination](./how-to-not-get-lost-in-hallucination.jpg)
